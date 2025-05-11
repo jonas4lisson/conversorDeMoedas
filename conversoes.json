@@ -1,0 +1,14 @@
+[
+  {
+    "moedaOrigem": "BRL",
+    "moedaDestino": "USD",
+    "valor": 100.0,
+    "resultado": 17.630000000000003
+  },
+  {
+    "moedaOrigem": "BRL",
+    "moedaDestino": "EUR",
+    "valor": 100.0,
+    "resultado": 15.68
+  }
+]
