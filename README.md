@@ -2,7 +2,7 @@
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 ![GitHub Release Date](https://img.shields.io/github/release-date/jonas4lisson/conversorDeMoedas)
-![GitHub Org's stars](https://img.shields.io/github/stars/jonas4lisson/conversorDeMoedas/)
+![GitHub Org's stars](https://img.shields.io/github/stars/jonas4lisson/conversorDeMoedas)
 
 <h4 align="left"> 
     :construction:  Projeto em construção  :construction:
