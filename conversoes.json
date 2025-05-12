@@ -2,13 +2,13 @@
   {
     "moedaOrigem": "BRL",
     "moedaDestino": "USD",
-    "valor": 100.0,
-    "resultado": 17.630000000000003
+    "valor": 80.0,
+    "resultado": 14.16
   },
   {
-    "moedaOrigem": "BRL",
-    "moedaDestino": "EUR",
-    "valor": 100.0,
-    "resultado": 15.68
+    "moedaOrigem": "USD",
+    "moedaDestino": "BRL",
+    "valor": 80.0,
+    "resultado": 452.08
   }
 ]

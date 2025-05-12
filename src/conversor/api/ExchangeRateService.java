@@ -12,7 +12,7 @@ import java.net.http.HttpResponse;
 
 
 public class ExchangeRateService {
-    private static final String API_KEY = "0620a610fad8f445eb08d571";
+    private static final String API_KEY = Config.get("API_KEY");
     private final HttpClient client = HttpClient.newHttpClient();
     private final Gson gson = new Gson();
 
