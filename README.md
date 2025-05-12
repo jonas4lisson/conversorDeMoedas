@@ -24,4 +24,4 @@ Copyright (C) 2025 Jonas Alisson [GNU GPLv3](./LICENSE)
 
 ## 📁 Acesso ao projeto
 
-Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/jonas4lisson/conversorDeMoedas/).
+Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/jonas4lisson/conversorDeMoedas/src).
